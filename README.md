@@ -1,1 +1,1 @@
-# javascript
+# Funny Demo
